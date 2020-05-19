@@ -1,0 +1,12 @@
+{
+    "name": "productive-anywhere",
+    "author": "Ondrej Stastny",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "await-parallel-limit": "^2.1.0",
+        "azure-storage": "^2.10.3",
+        "googleapis": "^42.0.0",
+        "qs": "^6.9.4"
+    }
+}
