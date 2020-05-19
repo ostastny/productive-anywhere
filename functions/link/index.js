@@ -24,7 +24,7 @@ const SCOPES = ['https://www.googleapis.com/auth/admin.directory.group.member.re
  
  const client = google.auth.fromJSON(JSON.parse(payloadRaw));
  client.scopes = SCOPES;
- // Directory API, you need to impersonate an admin in the domain using domain-wide delegation. 
+ //For Directory API you need to impersonate an admin in the domain using domain-wide delegation. 
  //See https://developers.google.com/identity/protocols/oauth2/service-account#delegatingauthority for details.
  client.subject = process.env["domain_admin"];
 
