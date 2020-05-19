@@ -1,12 +1,14 @@
 # Slack to Google Email Group member sync
 
-Set of erverless backend micro-services to provide sync 
+Set of serverless backend micro-services to provide sync 
 of users between Slack public and **private** channels and Google (GSuite) email groups
 
 
 ## How to use
 
-Easy as 1-2-3
+**Easy as 1-2-3**
+
+See the demo here: [https://youtu.be/0fQvJx-rPFQ](https://youtu.be/0fQvJx-rPFQ)
 
 1. Invite your app to the private channel with `/invite @gsuite_group_sync`
 ![](./images/screen04.png)
