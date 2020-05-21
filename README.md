@@ -81,5 +81,9 @@ See the demo here: [https://youtu.be/0fQvJx-rPFQ](https://youtu.be/0fQvJx-rPFQ)
 ![](./images/screen01.png)
 5. Install app to your workspace
 
+## License
+
+Licensed under GNU General Public License v3.0. See [here](./LICENSE)
+
 
 
